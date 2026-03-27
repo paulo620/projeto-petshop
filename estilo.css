@@ -172,6 +172,8 @@ body {
 
 .lista-marcas {
     padding: 0 80px;
+    max-width: 1024px;
+    margin: 0 auto;
 }
 
 .lista-marcas img {
