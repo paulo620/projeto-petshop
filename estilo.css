@@ -51,10 +51,9 @@ body {
 
 .banner {
     width: 100%;
-    padding: 100px 80px;
-    max-width: 1024px;
+    max-width: 1200px;
+    padding: 120px 80px;
     margin: 0 auto;
-    text-align: center;
     background: url("img/banner-topo.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -63,6 +62,7 @@ body {
 
 .chamada {
     width: 90%;
+    text-align: center;
     padding: 20px 10px;
     background: rgba(255, 255, 255, 0.80);
     box-shadow: 0 0 14px rgba(0, 0, 0, 0.20);
