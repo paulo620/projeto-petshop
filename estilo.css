@@ -23,8 +23,10 @@ body {
 
 .logo-linha {
     width: 300px;
-    text-align: left;
     color: #3C184E;
+    position: absolute;
+    top: 20px;
+    left: 20px;
 }
 
 .logo-icone {
@@ -65,7 +67,7 @@ body {
     padding: 20px 10px;
     background: rgba(255, 255, 255, 0.80);
     box-shadow: 0 0 14px rgba(0, 0, 0, 0.20);
-    margin: 0 auto;
+    margin: 30px 0px auto;
     border-radius: 5px;
 }
 
