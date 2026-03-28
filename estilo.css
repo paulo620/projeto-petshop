@@ -53,6 +53,8 @@ body {
 
 .banner {
     width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
     padding: 100px 80px;
     text-align: center;
     background: url("img/banner-topo.jpg");
